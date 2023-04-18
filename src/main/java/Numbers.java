@@ -14,7 +14,7 @@ public class Numbers {
         //  17  ===>  true
         public boolean isPrime(int n) {
 
-            return true;
+            return true;// TODO
         }
 
 
@@ -29,7 +29,7 @@ public class Numbers {
         //  10  ===>  1 + 2 + 5 + 10   = 18
         public int factorSum(int n) {
 
-            return 0;
+            return 0;// TODO
         }
 
         // Calculate the number of triples of integers a,b,c such that:
@@ -41,7 +41,7 @@ public class Numbers {
         // n=40  ===>  3,4,5  5,12,13  6,8,10  ...  20,21,29  21,28,35  24,32,40   ===>  count=16
         // n=100 ===>  3,4,5  5,12,13  6,8,10  ...  60,63,87  60,80,100  65,72,97  ===>  count=52
         public int pythagoreanTripleCount(int n) {
-            return 0;
+            return 0;// TODO
         }
 
         // Add all the digits in the given positive integer
@@ -55,7 +55,7 @@ public class Numbers {
         // "9710000000000000000000000000000006"  ==>  23
         public int sumOfDigits(String num) {
 
-            return 0;
+            return 0;// TODO
         }
 
 }
