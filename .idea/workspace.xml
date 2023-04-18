@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8cbea399-e234-4267-b218-f55a81374995" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -55,10 +56,12 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Tests.sumOfDigits">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="JUnit.Tests">
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Tests.sumOfDigits" />
+        <item itemvalue="JUnit.Tests" />
         <item itemvalue="JUnit.Tests.pythagoreanTripleCountTest" />
+        <item itemvalue="JUnit.Tests.sumOfDigits" />
         <item itemvalue="JUnit.Tests.FactorSumTest" />
         <item itemvalue="JUnit.Tests.isPrimeTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

@@ -39,7 +39,7 @@ public class Tests {
     @Test
     public void pythagoreanTripleCountTest(){
         int [] values = new int[]{10, 16, 17, 40, 100};
-        int[] answers = new int[]{1, 4, 5, 16, 52};
+        int[] answers = new int[]{2, 4, 5, 16, 52};
 
         for (int trial = 0; trial < values.length; trial ++){
             int expected = answers[trial];
