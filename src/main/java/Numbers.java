@@ -12,8 +12,7 @@ public class Numbers {
     //  10  ===>  false
     //  17  ===>  true
     public boolean isPrime(int n) {
-
-        return true;// TODO
+        return false; //TODO
     }
 
 
@@ -28,7 +27,7 @@ public class Numbers {
     //  10  ===>  1 + 2 + 5 + 10   = 18
     public int factorSum(int n) {
 
-        return 0;// TODO
+        return 0;
     }
 
     // Calculate the number of triples of integers a,b,c such that:
